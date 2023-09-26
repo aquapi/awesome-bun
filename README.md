@@ -39,10 +39,9 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ## Articles
 
 - [Exploring Bun](https://jenil777007.hashnode.dev/lets-bun)
-- [Scaffolding your bun project](https://codetea.com/scaffolding-your-bun-project-boilerplate/)
 - [Bun Tutorial – Getting Started Guide With Examples](https://codedamn.com/news/backend/bun-js-tutorial-2022)
-- [Create a react app with bun](https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o)
-- [Let's create a next.js app with bun](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
+- [Create a react app with Bun](https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o)
+- [Let's create a next.js app with Bun](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
 - [Bun: A Complete Overhaul of the JavaScript Ecosystem](https://www.lunasec.io/docs/blog/bun-first-look/)
 - [Server-Side Rendering (SSR) With Bun and React](https://alexkates.dev/server-side-rendering-ssr-with-bun-and-react)
 
@@ -146,7 +145,6 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Benchmarks](https://github.com/xHyroM/benchmarks)
 - [Framework benchmarks](https://github.com/bunsvr/benchmark) - Comparing Bun HTTP frameworks.
 - [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP frameworks.
-- [sveltekit-adapter-bun](https://github.com/bun-community/sveltekit-adapter-bun)
 
 ## Contributing
 
